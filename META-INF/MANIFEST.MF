@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Rules
+Bundle-SymbolicName: com.jacoozi.pmd.rules
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JACOOZI
+Fragment-Host: net.sourceforge.pmd.eclipse.plugin;bundle-version="3.2.6"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
